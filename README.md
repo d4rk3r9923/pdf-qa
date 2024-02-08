@@ -21,5 +21,5 @@ python ingest.py
 ```
 Afterward, run ```app.py``` to set up Streamlit app for inference
 ```bash
-python app.py
+streamlit run app.py
 ```
