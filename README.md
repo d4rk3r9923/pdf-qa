@@ -15,7 +15,8 @@ git clone https://huggingface.co/MBZUAI/LaMini-T5-738M
 ```
 
 ## Usage
-Place your PDF inside ```docs``` folder\n
+Place your PDF inside ```docs``` folder
+
 Run ```ingest.py``` to create embeddings and store vector database
 ```bash
 python ingest.py
