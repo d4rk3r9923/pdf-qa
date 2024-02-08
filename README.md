@@ -4,7 +4,7 @@
 A small fun Streamlit app I made to practice usage of LLM, particularly T5 base model [LaMini-T5-738M](https://huggingface.co/MBZUAI/LaMini-T5-738M). Providing QA on any PDF file.
 
 ## Installation
-Install the requirements
+Clone this repository and install the requirements
 ```bash
 pip install -r requirements.txt
 ```
