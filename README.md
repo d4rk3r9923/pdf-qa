@@ -6,6 +6,7 @@ A small fun Streamlit app I made to practice usage of LLM, particularly T5 base 
 ## Installation
 Clone this repository and install the requirements
 ```bash
+cd pdf-qa
 pip install -r requirements.txt
 ```
 Clone the model repository
