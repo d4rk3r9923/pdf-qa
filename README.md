@@ -8,6 +8,8 @@ Clone this repository and install the requirements
 ```bash
 cd pdf-qa
 pip install -r requirements.txt
+mkdir db
+mkdir docs
 ```
 Clone the model repository
 ```bash
